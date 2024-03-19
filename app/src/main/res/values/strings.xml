@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsersAndVideo</string>
+    <string name="users">Пользователи</string>
+    <string name="video">Видеоролик</string>
+</resources>
